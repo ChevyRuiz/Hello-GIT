@@ -1,2 +1,3 @@
 # Hello-GIT
-trying git and github
+
+trying git and github, just for fun :)
